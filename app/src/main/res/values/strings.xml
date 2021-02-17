@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Radio Button</string>
+    <string name="input_1">Primera Cantidad</string>
+    <string name="input_2">Segunda Cantidad</string>
+    <string name="add">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="calc">Calcular</string>
+    <string name="result">Resultado&#160;</string>
+</resources>
